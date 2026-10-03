@@ -1,0 +1,21 @@
+[package]
+name = "uni-rs"
+version = "0.1.0"
+edition = "2024"
+
+[[bin]]
+name = "sep_ex1"
+path = "src/09/ex1.rs"
+
+
+
+
+[[bin]]
+name = "oct_ex1"
+path = "src/10/ex1.rs"
+
+
+
+
+
+[dependencies]
