@@ -2,13 +2,14 @@
 name = "uni-rs"
 version = "0.1.0"
 edition = "2024"
-# September exercises...
+
 [[bin]]
 name = "sep_ex1"
 path = "src/09/ex1.rs"
 
 
-# October first batch of exercises
+
+
 [[bin]]
 name = "oct1_ex1"
 path = "src/10/01/ex1.rs"
@@ -27,13 +28,4 @@ path = "src/10/01/ex4.rs"
 [[bin]]
 name = "oct1_ex5"
 path = "src/10/01/ex5.rs"
-[[bin]]
-name = "oct1_ex6"
-path = "src/10/01/ex6.rs"
-#############################
-
-
-
-
-
 [dependencies]
