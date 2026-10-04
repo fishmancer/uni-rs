@@ -11,10 +11,12 @@ path = "src/09/ex1.rs"
 
 
 [[bin]]
-name = "oct_ex1"
-path = "src/10/ex1.rs"
+name = "oct1_ex1"
+path = "src/10/01/ex1.rs"
 
-
+[[bin]]
+name = "oct1_ex2"
+path = "src/10/01/ex2.rs"
 
 
 
