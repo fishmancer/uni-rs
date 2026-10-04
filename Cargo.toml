@@ -22,4 +22,10 @@ path = "src/10/01/ex2.rs"
 name = "oct1_ex3"
 path = "src/10/01/ex3.rs"
 
+[[bin]]
+name = "oct1_ex4"
+path = "src/10/01/ex4.rs"
+[[bin]]
+name = "oct1_ex5"
+path = "src/10/01/ex5.rs"
 [dependencies]
