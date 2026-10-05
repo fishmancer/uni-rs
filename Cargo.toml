@@ -31,4 +31,14 @@ path = "src/10/01/ex5.rs"
 [[bin]]
 name = "oct1_ex6"
 path = "src/10/01/ex6.rs"
+
+[[bin]]
+name = "oct2_ex1"
+path = "src/10/02/ex1.rs"
+[[bin]]
+name = "oct2_ex2"
+path = "src/10/02/ex2.rs"
+
+
+
 [dependencies]
